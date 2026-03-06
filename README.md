@@ -1,4 +1,4 @@
-## Hi there 👋
+- 👋 Former mocap technician, I retrained as a programmer. 
 <h3 align="center">A dev student at 42 Angouleme school</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
