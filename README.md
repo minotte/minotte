@@ -1,5 +1,5 @@
-- 👋 Former mocap technician, I retrained as a programmer. 
 <h3 align="center">A dev student at 42 Angouleme school</h3>
+- 👋 Former mocap technician, I retrained as a programmer. 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
